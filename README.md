@@ -37,4 +37,20 @@ My Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Harrsshhh08/DSA/tree/master/1051-height-checker) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harrsshhh08/DSA/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harrsshhh08/DSA/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harrsshhh08/DSA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harrsshhh08/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
