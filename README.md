@@ -25,6 +25,7 @@ My Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Harrsshhh08/DSA/tree/master/1051-height-checker) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Harrsshhh08/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -49,8 +50,13 @@ My Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Harrsshhh08/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Harrsshhh08/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Harrsshhh08/DSA/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Harrsshhh08/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
