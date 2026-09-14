@@ -59,4 +59,12 @@ My Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harrsshhh08/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Harrsshhh08/DSA/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Harrsshhh08/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
