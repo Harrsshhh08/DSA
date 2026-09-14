@@ -26,6 +26,7 @@ My Data Structures and Algorithms practice in C++
 | ------- |
 | [1051-height-checker](https://github.com/Harrsshhh08/DSA/tree/master/1051-height-checker) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harrsshhh08/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harrsshhh08/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ My Data Structures and Algorithms practice in C++
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Harrsshhh08/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harrsshhh08/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harrsshhh08/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -67,4 +69,8 @@ My Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Harrsshhh08/DSA/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harrsshhh08/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
