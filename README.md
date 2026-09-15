@@ -18,6 +18,7 @@ My Data Structures and Algorithms practice in C++
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harrsshhh08/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Harrsshhh08/DSA/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -44,6 +45,7 @@ My Data Structures and Algorithms practice in C++
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harrsshhh08/DSA/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Harrsshhh08/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -66,6 +68,7 @@ My Data Structures and Algorithms practice in C++
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harrsshhh08/DSA/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/Harrsshhh08/DSA/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
