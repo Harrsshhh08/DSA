@@ -47,6 +47,7 @@ My Data Structures and Algorithms practice in C++
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harrsshhh08/DSA/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Harrsshhh08/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Harrsshhh08/DSA/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
