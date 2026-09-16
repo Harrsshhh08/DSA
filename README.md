@@ -7,12 +7,14 @@ My Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harrsshhh08/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Harrsshhh08/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Harrsshhh08/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harrsshhh08/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harrsshhh08/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Harrsshhh08/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Harrsshhh08/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harrsshhh08/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -20,6 +22,7 @@ My Data Structures and Algorithms practice in C++
 | ------- |
 | [0013-roman-to-integer](https://github.com/Harrsshhh08/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Harrsshhh08/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Harrsshhh08/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
