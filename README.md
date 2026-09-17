@@ -30,6 +30,7 @@ My Data Structures and Algorithms practice in C++
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Harrsshhh08/DSA/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/Harrsshhh08/DSA/tree/master/1051-height-checker) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Harrsshhh08/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harrsshhh08/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -82,4 +83,8 @@ My Data Structures and Algorithms practice in C++
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Harrsshhh08/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Harrsshhh08/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
